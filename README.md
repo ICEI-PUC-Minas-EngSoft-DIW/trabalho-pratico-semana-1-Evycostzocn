@@ -2,16 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Evelyn de Paula Costa
+Matricula: 904838
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Inspeção navegador](images/network-navegador.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Código no replit](images/replit01.png)
+![Código executado no navegador](images/replit-execução01.png)
 
 
 ## Orientações sobre Linguagem MarkDown
